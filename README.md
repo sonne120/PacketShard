@@ -1,5 +1,9 @@
-[![Downloads](https://img.shields.io/github/downloads/sonne120/PacketShard/total)](https://github.com/sonne120/PacketShard/releases)
-[![Latest](https://img.shields.io/github/downloads/sonne120/PacketShard/latest/total)](https://github.com/sonne120/PacketShard/releases/latest)
+![C#](https://img.shields.io/badge/C%23-512BD4)
+![.NET](https://img.shields.io/badge/.NET-512BD4)
+![Language](https://img.shields.io/github/languages/top/sonne120/PacketShard)
+![Stars](https://img.shields.io/github/stars/sonne120/PacketShard)
+![Last commit](https://img.shields.io/github/last-commit/sonne120/PacketShard)
+![Repo size](https://img.shields.io/github/repo-size/sonne120/PacketShard)
 
 # PacketShard
 
