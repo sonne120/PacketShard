@@ -1,3 +1,6 @@
+[![Downloads](https://img.shields.io/github/downloads/sonne120/PacketShard/total)](https://github.com/sonne120/PacketShard/releases)
+[![Latest](https://img.shields.io/github/downloads/sonne120/PacketShard/latest/total)](https://github.com/sonne120/PacketShard/releases/latest)
+
 # PacketShard
 
 > **PacketShard — protocol-sharded packet pipeline: Kafka + outbox, Akka.NET routing, at-least-once delivery (offset commit after DB write).**
