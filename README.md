@@ -1,9 +1,16 @@
-![C#](https://img.shields.io/badge/C%23-512BD4)
-![.NET](https://img.shields.io/badge/.NET-512BD4)
-![Language](https://img.shields.io/github/languages/top/sonne120/PacketShard)
-![Stars](https://img.shields.io/github/stars/sonne120/PacketShard)
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet&logoColor=white)
+![Akka.NET](https://img.shields.io/badge/actors-Akka.NET-1BA1E2)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![Debezium](https://img.shields.io/badge/CDC-Debezium-91D443)
+![gRPC](https://img.shields.io/badge/ingress-gRPC%20%2B%20YARP-244C5A)
+![MongoDB](https://img.shields.io/badge/MongoDB-5%20shards-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-read%20model-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-outbox-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dedup-DC382D?logo=redis&logoColor=white)
+![Patterns](https://img.shields.io/badge/patterns-CQRS%20%7C%20Outbox%20%7C%20DLQ-blueviolet)
+![Delivery](https://img.shields.io/badge/delivery-at--least--once-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-compose-2496ED?logo=docker&logoColor=white)
 ![Last commit](https://img.shields.io/github/last-commit/sonne120/PacketShard)
-![Repo size](https://img.shields.io/github/repo-size/sonne120/PacketShard)
 
 # PacketShard
 
